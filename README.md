@@ -17,8 +17,6 @@ Create simple visualizations of your javascript code execution as flickering dot
 npm i -D html2js-loader
 ```
 
-![Example](./docs/example.svg)
-
 ## Usage
 
 ```javascript

@@ -1,6 +1,6 @@
 {
   "name": "hitviz",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create simple visualizations of your javascript code execution as flickering dots.",
   "main": "index.js",
   "scripts": {
