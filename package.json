@@ -1,0 +1,19 @@
+{
+  "name": "hitviz",
+  "version": "1.0.1",
+  "description": "Create simple visualizations of your javascript code execution as flickering dots.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Sem Postma",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sempostma/hitviz.git"
+  },
+  "homepage": "https://github.com/sempostma/hitviz",
+  "keywords": [
+    "javascript",
+    "visualization"
+  ]
+}
